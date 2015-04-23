@@ -1,4 +1,4 @@
-# Gamekick base repo
+# Gamekick storage repo
 #
 # VERSION 0.1
 
